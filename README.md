@@ -24,4 +24,5 @@ This project demonstrates how **data science + machine learning + deployment** c
 
 ---
 
-## 📂 Project Structure
+## Live Demo
+👉 [Heart Disease Prediction App] [https://heart-disease-prediction-app-2uva6x5uspf3tetb4gxpdz.streamlit.app/]
